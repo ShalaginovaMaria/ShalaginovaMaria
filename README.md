@@ -2,6 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C83F7&random=false&width=435&lines=Hi%2C+I+am+a+frontend+developer)](https://git.io/typing-svg)
 
-My main profile https://github.com/MariaShalaginova has been hidden by github. Waiting for support answer
+My main profile https://github.com/MariaShalaginova 
 
 ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/@ShalaginovaMaria)
